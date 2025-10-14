@@ -1,6 +1,5 @@
 Flask
 gunicorn
-pickle
 re
 string
 nltk
