@@ -1,5 +1,6 @@
 Flask
 gunicorn
-# joblib
-# scikit-learn
-# nltk
+pickle
+re
+string
+nltk
