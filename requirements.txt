@@ -1,4 +1,5 @@
 Flask
-joblib
-scikit-learn
-nltk
+gunicorn
+# joblib
+# scikit-learn
+# nltk
