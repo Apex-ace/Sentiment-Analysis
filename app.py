@@ -18,7 +18,7 @@ try:
     with open('label_encoder.pkl', 'rb') as f:
         label_encoder = pickle.load(f)
 except FileNotFoundError:
-    print("❌ Pickle files not found! Please run your training script first.")
+    print(" Pickle files not found! Please run your training script first.")
     exit()
 
 # --- Ensure required NLTK data is downloaded ---
